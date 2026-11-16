@@ -334,5 +334,3 @@ Through this project, I gained practical experience in:
 ## 👨‍💻 Author
 
 **Manav Natekar**
-**Project Type:** End-to-End Data Analytics  
-**Dataset Size:** 500,000 Synthetic Records
